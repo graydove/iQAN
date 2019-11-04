@@ -2,7 +2,7 @@
 
 This is the PyTorch implementation of our **Invertible Question Answering Network (iQAN)** proposed in [Visaul Question Generation as Dual Task of Visual Question Answering](http://cvboy.com/publication/cvpr2018_iqan/). Please follow the guidelines to run to the codes.
 
-p.s. *This is just an initial version. More details will available soon.*
+p.s. *The program is based on Pytorch 1.2.0.*
 
 
 ## Introduction
